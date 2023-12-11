@@ -1,0 +1,82 @@
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\qutho\OneDrive\Рабочий стол\Лабы\Ерошевич\17-18\18\TCPClient\Chat\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\Степан\Downloads\16-18_rabochie\18\Chat\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\Danil\Desktop\learn_ersh-master\18\Chat\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\Danil\Desktop\Лаб РК\18\Chat\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
