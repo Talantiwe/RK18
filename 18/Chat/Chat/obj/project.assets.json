@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danil\\Desktop\\Лаб РК\\18\\Chat\\Chat\\Chat.csproj",
+      "projectUniqueName": "C:\\Users\\Danil\\Desktop\\RK18\\18\\Chat\\Chat\\Chat.csproj",
       "projectName": "Chat",
-      "projectPath": "C:\\Users\\Danil\\Desktop\\Лаб РК\\18\\Chat\\Chat\\Chat.csproj",
+      "projectPath": "C:\\Users\\Danil\\Desktop\\RK18\\18\\Chat\\Chat\\Chat.csproj",
       "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danil\\Desktop\\Лаб РК\\18\\Chat\\Chat\\obj\\",
+      "outputPath": "C:\\Users\\Danil\\Desktop\\RK18\\18\\Chat\\Chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config"
